@@ -1,0 +1,117 @@
+2021-02-25 0.146.11
+* Fixed connected player counter (Correctly ending auth sessions)
+
+2021-02-25 0.146.9
+* Fixes instant disconnection issue that some players have experienced.
+
+2021-02-24 0.146.8
+* Crafting item-dupe bug fix
+* Harpooned player & ship bug fix
+
+2021-02-23 0.146.7
+* Fixed player ragdoll
+
+2021-02-23 0.146.6
+* Bonemass,Moder,Yagluth difficulty tweaks
+* Moder music updated
+* Tombstone bugfix
+* Fixed world corruption caused by pressing ALT+F4 while logging out.
+* Deathsquitos have slightly longer audio range
+* Tweaked audio on blast-furnace & spinning wheel
+* Shared map position setting is saved per world
+* Updated network stats (F2)
+* Building destruction drop-fix
+* Vulkan support in windows builds
+* Network disconnection bugfix
+* Updated socket-backend
+
+2021-02-16 0.145.6
+* Ip parse checks
+
+2021-02-16 0.145.5
+* Save IO-disk flush tweaks
+* Localization fixes
+
+2021-02-15 0.145.2
+* Localization fixes
+* World list fix
+* Client quit network sync fix
+
+2021-02-15 0.145.1
+* Hearth smoke building fix
+* Save system tweaks
+* Console "save" function can be used remotely if player is added to admin list
+* Autosave every 20min (instead of 30min)
+* Manual join IP function (dedicated servers only)
+* Extra tombstone checks ( to prevent them from disappearing )
+* Network optimizations
+* Better broken world handling ( crash/exit instead of loading an empty world )
+
+2021-02-12 0.144.3
+* Credits updated
+* Save system returned to old-new
+* Pickables sync fix (stones,carrots etc)
+* Dedicated server CPU fix (Framerate limiter)
+
+2021-02-09 0.144.2
+* Actually updated unity engine
+
+2021-02-09 0.144.1
+* Disable google analytics
+* Updated Unity engine
+* Forest crypt fixes
+
+2021-02-09 0.143.5
+* More serverlist improvements (removed initial serverlist request to lower network trafic)
+* Carts detach when teleporting
+
+2021-02-09 0.143.4
+* Lower dmg on deathsquitos
+* Fixed text-msg icon
+* Updated server manual PDF
+
+2021-02-08 0.143.3
+* Localization fixes
+* Added enemy awareness indicator to enemy huds
+* Sneak tweaks
+* Added save directory override to dedicated servers (-savedir)
+* AI fixes
+
+2021-02-07 0.143.2
+* World & character save improvements
+* Teleport ore chest hack fix
+* Remove structure resource dupe bug fix
+* Server map set to server name to make it filterable in steam server-browser
+
+2021-02-06 0.143.1
+* Ragdoll destruction network fix
+* Dedicated server ugly file-flag shutdown system removed (Use CTRL-C or SIGINT instead)
+* Updated reference server start scripts (Please update local copies)
+
+2021-02-04 0.142.6
+* Fixed world selection gui broken due to corrupt world file
+
+2021-02-04 0.142.5
+* Serverlist fixes
+* Lowered enemy per-player damage scaling
+* Localization fixes
+* Server filter fix
+
+2021-02-04 0.142.1
+* Fixed freeze at Valheim logo screen
+* Fixed Block-sfx
+* Fixed Spaming dodge consumed extra stamina
+* Serverlist tweaks (multi-line names, server count)
+* Continous music enabled by default
++ Drowning effects added
+* Compendium icon updated
+* Made Hugin dialog guis slightly larger
+* More surtling cores in burial chambers
+
+2021-02-02 0.141.2
+* Intro blackscreen bug fix
+
+2021-02-01 0.141.1
+* Localization updates
+* Music updates
+

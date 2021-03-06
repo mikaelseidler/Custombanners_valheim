@@ -1,12 +1,12 @@
 ManifestFileVersion: 0
-CRC: 1177712480
+CRC: 1134571972
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 2d5ee5244608e8e73ac4f9a42950c97a
+    Hash: cebb80330e696531c4edf972a833d01a
   TypeTreeHash:
     serializedVersion: 2
-    Hash: 02ed62116d9b33c61b6732252192153b
+    Hash: dcca61ae71ac9fb2e1a154c27a86913c
 HashAppended: 0
 ClassTypes:
 - Class: 1
@@ -28,9 +28,9 @@ ClassTypes:
 - Class: 65
   Script: {instanceID: 0}
 - Class: 114
-  Script: {fileID: 2094620348, guid: c1b78fa918b030faf1c1f6f6164daeb2, type: 3}
-- Class: 114
   Script: {fileID: 895252998, guid: c1b78fa918b030faf1c1f6f6164daeb2, type: 3}
+- Class: 114
+  Script: {fileID: 2094620348, guid: c1b78fa918b030faf1c1f6f6164daeb2, type: 3}
 - Class: 114
   Script: {fileID: 1521249158, guid: c1b78fa918b030faf1c1f6f6164daeb2, type: 3}
 - Class: 115
@@ -39,5 +39,5 @@ ClassTypes:
   Script: {instanceID: 0}
 SerializeReferenceClassIdentifiers: []
 Assets:
-- Assets/custom assets/piece_banner06.prefab
+- Assets/PrefabInstance/piece_banner06.prefab
 Dependencies: []

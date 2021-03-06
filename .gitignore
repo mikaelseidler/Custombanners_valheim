@@ -9,15 +9,7 @@
 [Bb]uilds/
 [Ll]ogs/
 [Mm]emoryCaptures/
-[Mm]esh/
-[Tt]exture2D/
-[Mm]aterial/
-[Pp]refabinstance/
-[Pp]ysicMaterial/
-[Ss]criptableObject/
-[Ss]hader/
-[Tt]extAsset/
-[Tt]hunderKit/
+
 
 
 # Asset meta data should only be ignored when the corresponding asset is also ignored
